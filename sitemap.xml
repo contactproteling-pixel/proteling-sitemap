@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url><loc>https://www.proteling.fr/</loc><priority>1.0</priority></url>
+  <url><loc>https://www.proteling.fr/accueil</loc><priority>0.9</priority></url>
+
+  <!-- Detailing global -->
+  <url><loc>https://www.proteling.fr/service/detailing-auto-interieur-exterieur</loc><priority>0.9</priority></url>
+  <!-- Détailing extérieur & intérieur (copie-colle les URL exactes depuis ton site si accents) -->
+  <url><loc>https://www.proteling.fr/service/detailing-auto-interieur-exterieur/exterieur</loc><priority>0.8</priority></url>
+  <url><loc>https://www.proteling.fr/service/detailing-auto-interieur-exterieur/interieur</loc><priority>0.8</priority></url>
+
+  <!-- PPF / Covering -->
+  <url><loc>https://www.proteling.fr/service/protection-ppf</loc><priority>0.8</priority></url>
+  <url><loc>https://www.proteling.fr/service/covering</loc><priority>0.8</priority></url>
+
+  <!-- Polissage -->
+  <url><loc>https://www.proteling.fr/service/polissage-carrosserie</loc><priority>0.8</priority></url>
+
+  <!-- Pages fixes -->
+  <url><loc>https://www.proteling.fr/contact</loc><priority>0.7</priority></url>
+  <url><loc>https://www.proteling.fr/faq</loc><priority>0.6</priority></url>
+
+</urlset>
