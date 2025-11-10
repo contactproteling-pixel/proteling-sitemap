@@ -32,17 +32,17 @@
   </url>
 
   <url>
-    <loc>https://www.proteling.fr/service/traitement-ceramique-auto</loc>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
     <loc>https://www.proteling.fr/service/covering</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://www.proteling.fr/service/polissage-carrosserie</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.proteling.fr/service/traitement-ceramique-auto</loc>
     <priority>0.8</priority>
   </url>
 
